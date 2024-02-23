@@ -1,4 +1,4 @@
-package sam.array.and.strings.i.two.pointers.bonus;
+package sam.array_and_strings.i_two_pointers.bonus;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -17,8 +17,8 @@ public class ReverseWordsInAStringIII {
         int left = 0;
         int right = 0;
         char[] tempCharArray;
-        int innerLeft = 0;
-        int innerRight = 0;
+        int innerLeft;
+        int innerRight;
 
         while (right < s.length()) {
             while (right < s.length() && s.charAt(right) != ' ') {

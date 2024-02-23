@@ -1,4 +1,4 @@
-package sam.array.and.strings.i.two.pointers;
+package sam.array_and_strings.i_two_pointers;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

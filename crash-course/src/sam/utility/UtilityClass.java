@@ -1,6 +1,6 @@
 package sam.utility;
 
-import sam.linked.list.i.fast.and.slow.pointers.ListNode;
+import sam.linked_list.i_fast_and_slow_pointers.ListNode;
 
 public class UtilityClass {
 

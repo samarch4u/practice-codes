@@ -1,4 +1,4 @@
-package sam.array.and.strings.i.two.pointers;
+package sam.array_and_strings.i_two_pointers;
 
 public class ReverseString {
     public static void main(String[] args) {

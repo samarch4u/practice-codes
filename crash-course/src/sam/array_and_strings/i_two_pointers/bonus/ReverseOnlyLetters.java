@@ -1,4 +1,4 @@
-package sam.array.and.strings.i.two.pointers.bonus;
+package sam.array_and_strings.i_two_pointers.bonus;
 
 public class ReverseOnlyLetters {
     public static void main(String[] args) {

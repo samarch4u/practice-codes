@@ -1,4 +1,4 @@
-package sam.linked.list.i.fast.and.slow.pointers;
+package sam.linked_list.i_fast_and_slow_pointers;
 
 import static sam.utility.UtilityClass.printLinkList;
 
